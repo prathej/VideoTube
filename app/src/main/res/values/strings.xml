@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Video Tube</string>
+
+    //content description
+    <string name="videoPoster">Contains the Video Poster</string>
+    <string name="videoTitle">Contains the Video Title</string>
+    <string name="videoDesc">Contains the Video Description</string>
+    <string name="networkError">There seems to a problem in your network. Kindly have a check.</string>
+    <string name="nextHeader">Next Videos</string>
+    <string name="sign_out">Sign out</string>
+    <string name="showMore">More</string>
+
+</resources>

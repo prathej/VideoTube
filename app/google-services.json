@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "832717300846",
+    "firebase_url": "https://video-tube-7c24c.firebaseio.com",
+    "project_id": "video-tube-7c24c",
+    "storage_bucket": "video-tube-7c24c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832717300846:android:7089fd70be0ea53f",
+        "android_client_info": {
+          "package_name": "com.mobiotics.videotube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832717300846-8hdtrb4fk03rm6d9op32o7dbjsgl123u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobiotics.videotube",
+            "certificate_hash": "2e2a361acba30f6e707db4a2a92669370974de51"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLT1sA4S4-PG5PNC7_XJwD3ZDR9PGIqn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832717300846-9jphr03b8oig9s92tjk4i96p629t0c9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
